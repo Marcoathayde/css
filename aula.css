@@ -1,0 +1,78 @@
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+.table_h th {
+	background-color: #DEE2E6;
+	font-family: "Helvetica Neue";
+	color: #6B6C6D;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	padding-left: 0.5%;
+	text-align: left;
+}
+
+.table_d {
+	margin: 0px;
+
+}
+
+table {
+	border-spacing: 0;
+	width: 95%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+td {
+	color: #868686;
+	text-align: left;
+	padding: 0.5%;
+	border-bottom: 2px solid #DEE2E6;
+}
+
+.itens {
+	color: #007bff;
+	font-weight: 500;
+}
+
+.editar {
+	color: #FDDF4C;
+	font-weight: 500;
+}
+
+.excluir {
+	color: #E82431;
+	font-weight: 500;
+}
+
+
+.pendente {
+	background-color: #007bff;
+	color: #DEE2E6;
+	border-radius: 5px;
+	width: 80%;
+	text-align: center;
+	padding-bottom: 3%;
+	padding-top: 2%;
+}
+
+.entregue {
+	background-color: #28a745;
+	color: #DEE2E6;
+	border-radius: 5px;
+	width: 80%;
+	text-align: center;
+	padding-bottom: 3%;
+	padding-top: 2%;
+}
+
+.cancelado {
+	background-color: #E82431;
+	color: #DEE2E6;
+	border-radius: 5px;
+	width: 80%;
+	text-align: center;
+	padding-bottom: 3%;
+	padding-top: 2%;
+}
